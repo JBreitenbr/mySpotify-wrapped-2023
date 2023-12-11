@@ -15,7 +15,7 @@ export default function Navbar(){
         <Link style={{width:"4px"}} to="/musical-palm-tree"></Link>
         {window.innerWidth<768?       (<><Link to="/batch1">&nbsp;&nbsp;1-10</Link>
         <Link to="/batch2">11-20</Link>
-        <Link to="/batch5">21-30</Link>
+        <Link to="/batch3">21-30</Link>
         <Link to="/batch4">31-40</Link>
         <Link to="/batch5">41-50</Link>
         <Link to="/batch6">51-60</Link>
